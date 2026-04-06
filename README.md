@@ -1,5 +1,6 @@
 # Desafio-NotebookLM
 Guia Prático de Finanças Pessoais e Investimentos
+https://notebooklm.google.com/notebook/08c854b6-0319-4dbe-899f-4a7978cd988e
 <img width="1231" height="2048" alt="1775442921632690351215841519429" src="https://github.com/user-attachments/assets/efe187fc-87c2-4e3f-9378-391c082edf92" />
 1. **Diagnóstico Financeiro:** O "Raio X" mapeia receitas e categoriza gastos (fixos, semivariáveis, variáveis) para gerar clareza situacional.
 2. **Gestão de Dívidas:** Priorize a criação de um "Fundo de Liberdade" antes de quitar débitos, visando negociações estratégicas posteriores.
